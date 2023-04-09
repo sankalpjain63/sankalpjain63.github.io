@@ -21,11 +21,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Vega Lite Example Project">
+  <meta property="og:title" content="IS 445 DATA VIZUALIZATION">
   <meta property="og:description" content="This is a "showcase" project that uses vega-lite for interactive viz!">
   <meta property="og:image" content="assets/pngs/cars.png">
 
-  <title>Vega Lite Example Project</title>
+  <title>IS 445 DATA VIZUALIZATION</title>
   <meta name="description" content="This is a "showcase" project that uses vega-lite for interactive viz!">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
@@ -52,7 +52,7 @@
   <main class="flex-shrink-0 container mt-5">
     <nav class="navbar navbar-expand-lg navbar-themed">
 
-  <a class="navbar-brand" href="/"><h5><b>Jill Naiman</b></h5></a>
+  <a class="navbar-brand" href="/"><h5><b>Aatmic Tiwari & Sankalp Jain</b></h5></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fas fa-1x fa-bars text-themed"></i>
@@ -73,50 +73,48 @@
 
 </nav>
     <div class="col-lg-10 mx-auto mt-5 markdown-body">
-  <h1 id="example-including-vega-lite">Example including vega-lite</h1>
+  <h1 id="homework---10-group---5">Homework - 10, Group - 5</h1>
+<h2 id="team-members">Team Members:</h2>
+<h4 id="aatmic-tiwari">Aatmic Tiwari</h4>
+<h4 id="sankalp-jain">Sankalp Jain</h4>
 
-<p>Example comes from this <a href="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html">great blog post right here</a> that was also used in <a href="https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week01/test_imports_week01.ipynb">our test import script</a>.</p>
+<h5 id="this-assignment-displays-usage-of-pythonaltairvegalite-to-your-github-repository">This assignment displays usage of Python+altair+vegalite to your github repository.</h5>
+<h5 id="in-this-assignment-there-are-2-visualizations-this-assignment-is-not-a-continutaion-of-homework-9-visualization-1-is-a-generic-one-and-for-visualization-2-we-have-added-a-dropdown-as-an-interactivity-so-that-the-user-can-change-the-city-according-to-their-preference">In this assignment there are 2 visualizations. This assignment is NOT a continutaion of Homework 9. Visualization 1 is a generic one and for Visualization 2, we have added a dropdown as an interactivity so that the user can change the city according to their preference.</h5>
 
-<p>We can use a vegachart HTML tag like so:</p>
+<h1 id="visualization-1">Visualization 1</h1>
+<h5 id="using-a-line-chart-visualize-the-average-square-footage-of-buildings-constructed-from-1800-to-2022">Using a line chart, visualize the average square footage of buildings constructed from 1800 to 2022</h5>
+<p>The goal of this visualization is to examine the changes in the average size of buildings over time, as the reduction of open spaces has resulted in smaller buildings. 
+To achieve this, we utilized temporal encoding for the X-axis to map the year values and calculated the average square footage for the Y-axis from the dataframe. 
+We removed rows with empty values in the year constructed and square footage fields and filtered the data to only include buildings constructed between 1800 and 2022. 
+We utilized the “.properties” trait in Altair to encode the width and height of the chart. The original color of the line chart is blue. There is no plot overlap from homework 9.</p>
+<vegachart schema-url="/assets/json/Viz1.json" style="width: 100%"></vegachart>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;vegachart schema-url="/assets/json/cars.json" style="width: 100%"&gt;&lt;/vegachart&gt;
-</code></pre></div></div>
-
-<vegachart schema-url="/assets/json/cars.json" style="width: 100%"></vegachart>
-
-<p>In theory, you can also use <a href="https://jekyllrb.com/docs/plugins/hooks/">Jekyll hooks</a> to do it, but I haven’t figured out a way that looks nice yet.</p>
+<h1 id="visualization-2">Visualization 2</h1>
+<h5 id="interactive-bar-chart-shows-total-building-square-footage-by-status-for-each-city-in-dataset-users-can-filter-for-specific-city">Interactive bar chart shows total building square footage by status for each city in dataset. Users can filter for specific city.</h5>
+<p>The objective of this visualization is to gain insight into the utilization of building space in various cities of Illinois, as measured in square footage. 
+We utilized ordinal encoding on the X-axis to map building status and calculated the sum of square footage for the chosen city on the Y-axis. 
+We discovered an alternative plotting method using Altair’s chart function, which allowed us to incorporate interactivity using the “.from_dict” trait (source citation provided). 
+However, we encountered difficulty displaying empty building status categories on the X-axis for cities with only one type of building status-related data. 
+Additionally, due to Altair’s limitations on interactivity for datasets with more than 5000 rows, we created a subset of the original dataframe. 
+To validate interactivity, we created a pivot table using pandas to confirm the total square footage values for each city and building status type. 
+Ultimately, this visualization may be useful to the real estate industry in creating city blueprints. There is no plot overlap from homework 9.</p>
+<vegachart schema-url="/assets/json/Viz2.json" style="width: 100%"></vegachart>
 
 <h2 id="search-the-data--methods">Search The Data &amp; Methods</h2>
-
-<p>Below is where we can put some links to both the data and the analysis code as buttons:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="left"&gt;
-&lt;a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/vega/vega/blob/main/docs/data/cars.json"&gt;
-  The Data
-&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class="right"&gt;
-&lt;a class="m-1 btn btn-outline-primary btn-2 " href="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html"&gt;
-  The Analysis
-&lt;/a&gt;
-&lt;/div&gt;
-</code></pre></div></div>
 
 <!-- these are written in a combo of html and liquid -->
 
 <div class="left">
-<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/vega/vega/blob/main/docs/data/cars.json">
+<a class="m-1 btn btn-outline-primary btn-2 " href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv">
   The Data
 </a>
 </div>
 
 <div class="right">
-<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb">
+<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/sankalpjain63/sankalpjain63.github.io/blob/main/python_notebooks/ASSIGNMENT10.ipynb">
   The Analysis
 </a>
 </div>
-
 
 </div>
   </main>

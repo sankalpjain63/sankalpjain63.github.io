@@ -12,8 +12,6 @@ custom_js:
 
 
 # Homework - 10, Group - 5
-## Team Members: 
-#### Aatmic Tiwari
 #### Sankalp Jain
 
 

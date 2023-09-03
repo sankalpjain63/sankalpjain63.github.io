@@ -1,12 +1,3 @@
-# Assignment 10
-## https://sankalpjain63.github.io/projects/1-vega-lite-project
-
-
-
-
-
-
-
 # Online CV Templete for IS445
 
 This is a resource for [IS445 as of Fall 2022](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/).  It is a way to host an online CV with interactive visualizations.  See the course page for more materials.

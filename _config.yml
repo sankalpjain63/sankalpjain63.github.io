@@ -5,9 +5,9 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Aatmic Tiwari & Sankalp Jain 
+title               : Sankalp Jain 
 description         : >-
-                      I am definitely not a corgi!
+                      Hi I am Sankalp
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : sankalpjain63/sankalpjain63.github.io               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -34,26 +34,27 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+
+  name              : Sankalp Jain
+  image             : https://media.licdn.com/dms/image/C4D03AQEHvrKTxixSsQ/profile-displayphoto-shrink_800_800/0/1654262638257?e=2147483647&v=beta&t=hDKhgqB6RM-2zRWbxg0-Vez8eiedHGg-7ni0e0mvGCM
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+#  email             : username@domain.com
 #  facebook          : your_username
-  github            : jnaiman # JPN
+  github            : sankalpjain63.github.io
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-#  linkedin          : your_username
+  linkedin          : https://www.linkedin.com/in/sankalpjain81
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 #  twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 #  vimeo             : your_username
-  youtube           : your_channel_name
+  youtube           : https://www.youtube.com/@lifewithsankalp
 # keybase           : your_username
 
 
@@ -90,6 +91,7 @@ buymeacoffee:
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
+
 
 
 ### Defaults for collections ###

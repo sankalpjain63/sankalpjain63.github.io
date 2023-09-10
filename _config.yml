@@ -13,7 +13,7 @@ title               :  Sankalp Jain
 description         : Hi I am Sankalp!
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : sankalpjain63/sankalpjain63.github.io               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : sankalpjain63          # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 

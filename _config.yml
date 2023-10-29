@@ -5,9 +5,9 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Sankalp Jain 
-description         : >-
-                      Hi I am Sankalp
+# title               : Sankalp Jain 
+# description         : >-
+#                      Hi I am Sankalp
 
 title               :  Sankalp Jain 
 description         : Hi I am Sankalp!

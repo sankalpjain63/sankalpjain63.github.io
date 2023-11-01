@@ -37,22 +37,22 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-name              : Sankalp Jain
-image             : https://media.licdn.com/dms/image/C4D03AQEHvrKTxixSsQ/profile-displayphoto-shrink_800_800/0/1654262638257?e=2147483647&v=beta&t=hDKhgqB6RM-2zRWbxg0-Vez8eiedHGg-7ni0e0mvGCM
+ name              : Sankalp Jain
+ image             : https://media.licdn.com/dms/image/C4D03AQEHvrKTxixSsQ/profile-displayphoto-shrink_800_800/0/1654262638257?e=2147483647&v=beta&t=hDKhgqB6RM-2zRWbxg0-Vez8eiedHGg-7ni0e0mvGCM
 #  behance           : your_username
 # dribbble          : your_username
 #  email             : username@domain.com
 #  facebook          : your_username
-github            : sankalpjain63.github.io
+ github            : sankalpjain63.github.io
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-linkedin          : https://www.linkedin.com/in/sankalpjain81
-github            : sankalpjain63
+ linkedin          : https://www.linkedin.com/in/sankalpjain81
+ github            : sankalpjain63
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-linkedin          : www.linkedin.com/in/sankalpjain81
+ linkedin          : www.linkedin.com/in/sankalpjain81
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -61,7 +61,7 @@ linkedin          : www.linkedin.com/in/sankalpjain81
 #  twitch            : your_username
 # twitter           : your_username
 #  vimeo             : your_username
-youtube           : https://www.youtube.com/@lifewithsankalp
+ youtube           : https://www.youtube.com/@lifewithsankalp
 # keybase           : your_username
 
 

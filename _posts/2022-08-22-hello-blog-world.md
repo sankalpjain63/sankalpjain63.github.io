@@ -1,22 +1,21 @@
 ---
-title: The Hello World of Blogs
-tags: [Technology, Blogging]
+title: Starting Fresh: What All It Takes
+tags: [Inspiration, Blogging]
 style: fill
 color: secondary
-description: This is a blog post to get you started.
 ---
 
-Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
+Source: (https://sankalpjainblogs.wixsite.com/myblogs/post/starting-fresh-what-all-it-takes)
 
 This is me writing an intro to this blog post.  So introlicioius.
 
 ## 1. Here is one thing I want to say
 
-This is maybe an important thing, and, at the very least it is first.
+Is HAPPY MIND HAPPY LIFE a myth or it really helps one get through your bad days? Read the source to know more.
 
-## 2. Another thing
+## 2. Graybar, A Fortune 500 Family
 
-I am now talking about a second thing, probably also good.
+
 
 ## 3. A third thing
 

@@ -1,13 +1,13 @@
 ---
 title: Starting Fresh: What All It Takes
-tags: [Inspiration, Blogging]
+tags: [Technology, Blogging]
 style: fill
 color: secondary
 ---
 
 Source: (https://sankalpjainblogs.wixsite.com/myblogs/post/starting-fresh-what-all-it-takes)
 
-This is me writing an intro to this blog post.  So introlicioius.
+This is me writing an intro to this blog post. So introlicioius.
 
 ## 1. Here is one thing I want to say
 

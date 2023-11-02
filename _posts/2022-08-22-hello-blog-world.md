@@ -5,7 +5,8 @@ style: fill
 color: secondary
 ---
 
-Source: https://sankalpjainblogs.wixsite.com/myblogs/post/starting-fresh-what-all-it-takes
+Source: 
+![corg](https://sankalpjainblogs.wixsite.com/myblogs/post/starting-fresh-what-all-it-takes)
 
 This is me writing an intro to this blog post. So introlicioius.
 

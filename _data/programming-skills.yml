@@ -16,9 +16,9 @@
 - name: HTML/CSS
   percentage: 85
   level: Intermediate
-  color: secondary
+  color: info
 
 - name: Git
   percentage: 90
   level: Advance
-  color: secondary
+  color: success

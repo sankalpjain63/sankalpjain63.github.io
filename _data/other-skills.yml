@@ -1,9 +1,11 @@
-- name: Adobe Photoshop
+- name: Methodologies
+  description: A/B testing, Agile, SDLC, Product/business strategy, Product Roadmap, Requirement gathering, Business Document
   percentage: 95
   level: Expert
   color: info
 
-- name: Adobe Illustrator
+- name: Tools and Databases 
+  description: MySQL, Power BI, Tableau, Google Analytics, Confluence, JIRA, MS Excel, MS Office, Eclipse IDE, Jupyter, Jenkins, Gerrit,  SQLite, DB Browser, Snowflake, Figma, Six Sigma, SaaS"
   percentage: 90
   level: Expert
   color: success

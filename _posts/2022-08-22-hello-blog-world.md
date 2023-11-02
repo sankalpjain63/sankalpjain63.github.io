@@ -5,7 +5,7 @@ style: fill
 color: secondary
 ---
 
-Source: (https://sankalpjainblogs.wixsite.com/myblogs/post/starting-fresh-what-all-it-takes)
+Source: https://sankalpjainblogs.wixsite.com/myblogs/post/starting-fresh-what-all-it-takes
 
 This is me writing an intro to this blog post. So introlicioius.
 
@@ -15,22 +15,23 @@ Is HAPPY MIND HAPPY LIFE a myth or it really helps one get through your bad days
 
 ## 2. Graybar, A Fortune 500 Family
 
+Grayabr Innovation Lab- where business meets innovation.
 
+## 3. University of Illinois at Urbana-Champaign
 
-## 3. A third thing
+12th best public university in the nation.
 
-We are now getting into the weeds of things that I am saying.  It is probably unlikely someone has made it thus far.
+## 3. Tata Consultancy Services
 
-## 4. Thing #4.
+TCS is the second largest Indian company by market capitalization and is among the most valuable IT service brands worldwide, and is the top Big Tech (India) company.
+https://researchpark.illinois.edu/wp-content/uploads/2020/05/Graybar-Team-Photo-Day-768x526.jpg
 
-At this point, you are probably no longer into me listing off things.  Let's put in an image to placate the reader:
+## 4. If you have come till here, something not on my resume:
 
-![corg](https://media.istockphoto.com/photos/welsh-corgi-picture-id962032196?k=20&m=962032196&s=170667a&w=0&h=NhIyQdJgVw0cw_EeLtP3LcLExLuiAWPwzL6_WsRKUfQ=)
+One of my greatest joys in life is giving back to the community. I have a deep sense of commitment to those less fortunate than myself, and I have found that working with organizations like Make A Difference NGO has given me an incredible opportunity to help those in need. My work with marginalized and abandoned children, providing them with after-school programs and fundraising events, has been some of the most rewarding experiences of my life.
 
 ## 5. The last thing
 
-This is my final thing, probably would be great if this was a TL;DR or summary.  But I don't have that for you.  I have given you so little already, why start saying anything useful now?
+"Innovation distinguishes between a leader and a follower." - Steve Jobs
 
-Besides, all anybody wants is the DERP:
 
-![MAXIMUM DERP](http://3.bp.blogspot.com/-AXnXOPZgqMk/Un-xCBAa4gI/AAAAAAAAsWA/z_lZsvDoCRk/s1600/derpstages.jpg)

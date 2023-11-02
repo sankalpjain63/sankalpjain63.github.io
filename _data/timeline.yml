@@ -1,20 +1,19 @@
 - title: Senior Consultant, Business Intelligence Group
+  from: "August 2023"
+  to: present
+    - • Product Development. Leading team of 5 consultants to provide strategy consulting to mobile carrier for launching digital healthcare service 
+    - • Helping client establish business model for market entry & positioning; demonstrating ownership by client-communication process 
+    - • Conducting primary and secondary research, drafting a project scoping document and analyzing data to provide recommendations
+
+
+- title: Product Owner Market Intelligence, Graybar
   from: "May 2023"
   to: present
-  description: |
-    • Product Development. Leading team of 5 consultants to provide strategy consulting to mobile carrier for launching digital healthcare service 
-    • Helping client establish business model for market entry & positioning; demonstrating ownership by client-communication process 
-    • Conducting primary and secondary research, drafting a project scoping document and analyzing data to provide recommendations
+  description: •  Product Enhancement. Efficiently implemented Freight Cost Model using Snowflake & Power BI dashboard, enhancing gross margin & quote conversion ratio. Proactively predicted freight costs, saving Graybar 10% from initial $100 million
+               •  Built KPIs-data accuracy, latency & feedback for Value Tracker product, suggested service strategies from 57 solutions for customers
+               •  Developed a comprehensive Market Insights Report, identifying key trends and results for more than 2000 stakeholders
 
 
-- title: Student, Harvard CS
-  from: 2013
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 - title: Software Engineer, Google, UK
   from: 2018

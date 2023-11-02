@@ -5,7 +5,7 @@
   color: info
 
 - name: Tools and Databases 
-  description: MySQL, Power BI, Tableau, Google Analytics, Confluence, JIRA, MS Excel, MS Office, Eclipse IDE, Jupyter, Jenkins, Gerrit,  SQLite, DB Browser, Snowflake, Figma, Six Sigma, SaaS"
+  description: MySQL, Power BI, Tableau, Google Analytics, Confluence, JIRA, MS Excel, MS Office, Eclipse IDE, Jupyter, Jenkins, Gerrit,  SQLite, DB Browser, Snowflake, Figma, Six Sigma, SaaS
   percentage: 90
   level: Expert
   color: success

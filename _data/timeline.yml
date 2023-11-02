@@ -16,12 +16,33 @@
 
 
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Master of Science, Information Management
+  from: 2022
+  to: 2024
+  description: Coursework: Applied Business Research, Data Warehousing & Business Intelligence, Information Consulting, Data Visualization, etc.
+
+  
+- title: System Engineer, Tata Consultancy Services
+  from: "September 2020"
+  to: "August 2022"
+  description: •  Product Enhancement. Implemented C, C++, Python, & git codes for 5G products for telecom client; used unit, cloud-native & use-case testing using Jenkins & Gerrit, resulted in 15% efficiency gains
+               •  Provided troubleshooting & problem-solving solutions for issues in production environment through root-cause analysis by DevOps
+               •  Consulted with clients during the product development of 5G-plugin feature. Achieved deliverables quality rating of 8.5/10
+               •  Improved cross-functional client-stakeholder communication with Agile & JIRA, achieved 90% user story completion
+
+- title: Data Analyst
+  from: "May 2019"
+  to: "July 2019"
+  description: •  Customer Research. Implemented a data pipeline to build a customer behavioral assembled report using ETL Modeling for product requirements; identified firm website engagement through Google Analytics & Tableau dashboard
+               •  Product Development. Crafted digital marketing strategies for consumer segmentation through executive presentations & design mockups, collaborated with product team, resulted in a 12% rise in web trends
+
+
+- title: Business Analyst & Marketing Intern
+  from: "June 2017"
+  to: "July 2017"
+  description: A fast-growing, data-analytics-based ed-tech platform
+              task 1: • Pursued SWOT strategic opportunities for business organization. Leveraged product management strategies and used in-house database to produce visual data using Power BI to maximize sales
+              task 2: • Validated product fit & prioritization via A/B testing. Automated courses research fatigue, reducing 20% ongoing manual effort
+              task 3: • Utilized 4C’s to identify markets, products, services. Applied Six Sigma for structured problem-solving yielded productivity boost
+               
 

@@ -1,6 +1,6 @@
 ---
-title: Starting Fresh: What All It Takes
-tags: [Technology, Blogging]
+title: "Starting Fresh: What All It Takes"
+tags: [Inspiration, Blogging]
 style: fill
 color: secondary
 ---

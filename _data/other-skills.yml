@@ -1,9 +1,9 @@
-- name: **Methodologies** - A/B testing, Agile, SDLC, Product/business strategy, Product Roadmap, Requirement gathering, Business Document, Six Sigma
+- name: Methodologies - A/B testing, Agile, SDLC, Product/business strategy, Product Roadmap, Requirement gathering, Business Document, Six Sigma
   percentage: 95
   level: Expert
   color: info
 
-- name: **Tools and Databases** - Power BI, Tableau, Google Analytics, Confluence, JIRA, MS Excel, MS Office, Eclipse IDE, Jupyter, Jenkins, Gerrit, MySQL, SQLite, DB Browser, Snowflake, Figma, SaaS
+- name: Tools and Databases - Power BI, Tableau, Google Analytics, Confluence, JIRA, MS Excel, MS Office, Eclipse IDE, Jupyter, Jenkins, Gerrit, MySQL, SQLite, DB Browser, Snowflake, Figma, SaaS
   percentage: 90
   level: Expert
   color: success

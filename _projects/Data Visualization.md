@@ -1,5 +1,5 @@
 ---
-name: IS 445 DATA VISUALIZATION
+name: DATA VISUALIZATION
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!

@@ -1,5 +1,4 @@
-- name: Methodologies - 
-  A/B testing, Agile, SDLC, Product/business strategy, Product Roadmap, Requirement gathering, Business Document, Six Sigma
+- name: Methodologies - A/B testing, Agile, SDLC, Product/business strategy, Product Roadmap, Requirement gathering, Business Document, Six Sigma
   percentage: 95
   level: Expert
   color: info

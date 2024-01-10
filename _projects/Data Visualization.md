@@ -1,5 +1,5 @@
 ---
-name: IS 445 DATA VIZUALIZATION
+name: IS 445 DATA VISUALIZATION
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
@@ -11,12 +11,12 @@ custom_js:
 ---
 
 
-# Homework - 10, Group - 5
+## Data Visualization
 #### Sankalp Jain
 
 
 ##### This assignment displays usage of Python+altair+vegalite to your github repository.
-##### In this assignment there are 2 visualizations. This assignment is NOT a continutaion of Homework 9. Visualization 1 is a generic one and for Visualization 2, we have added a dropdown as an interactivity so that the user can change the city according to their preference.
+##### In this Visualization 1 is a generic one and for Visualization 2, we have added a dropdown as an interactivity so that the user can change the city according to their preference.
 
 # Visualization 1 
 ##### Using a line chart, visualize the average square footage of buildings constructed from 1800 to 2022

@@ -16,7 +16,7 @@
   from: 2022
   to: 2024
   description1: University of Illinois at Urbana-Champaign
-  description2: Coursework: Applied Business Research, Data Warehousing & Business Intelligence, Information Consulting, Data Visualization, etc.
+  description2: "Coursework: Applied Business Research, Data Warehousing & Business Intelligence, Information Consulting, Data Visualization, etc."
 
   
 - title: System Engineer, Tata Consultancy Services
@@ -46,6 +46,6 @@
   from: "July 2016"
   to: "June 2020"
   description1: University Institute of Technology, RGPV 
-  description2: Coursework: Software Engineering & Project Management, DBMS, Web Engineering, IoT, Cyber Security, Operating Systems
+  description2: "Coursework: Software Engineering & Project Management, DBMS, Web Engineering, IoT, Cyber Security, Operating Systems"
                
 

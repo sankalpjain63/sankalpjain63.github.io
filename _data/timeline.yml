@@ -1,49 +1,51 @@
 - title: Product Owner, Graybar
   from: "May 2023"
   to: present
-  description1: •  Product Enhancement. Efficiently implemented Freight Cost Model using Snowflake & Power BI dashboard, enhancing gross margin & quote conversion ratio. Proactively predicted freight costs, saving Graybar 10% from initial $100 million
-  description2: •  Built KPIs-data accuracy, latency & feedback for Value Tracker product, suggested service strategies from 57 solutions for customers
-  description3: •  Developed a comprehensive Market Insights Report, identifying key trends and results for more than 2000 stakeholders
+  description1: Product Enhancement. Efficiently implemented Freight Cost Model using Snowflake & Power BI dashboard, enhancing gross margin & quote conversion ratio. Proactively predicted freight costs, saving Graybar 10% from initial $100 million
+  description2: Built KPIs-data accuracy, latency & feedback for Value Tracker product, suggested service strategies from 57 solutions for customers
+  description3: Developed a comprehensive Market Insights Report, identifying key trends and results for more than 2000 stakeholders
 
 - title: Senior Consultant, Business Intelligence Group
   from: "August 2023"
   to: "December 2023"
-  description: • Product Development. Leading team of 5 consultants to provide strategy consulting to mobile carrier for launching digital healthcare service
-               • Helping client establish business model for market entry & positioning; demonstrating ownership by client-communication process
-               • Conducting primary and secondary research, drafting a project scoping document and analyzing data to provide recommendations
+  description1: Product Development. Leading team of 5 consultants to provide strategy consulting to mobile carrier for launching digital healthcare service
+  description2: Helping client establish business model for market entry & positioning; demonstrating ownership by client-communication process
+  description3: Conducting primary and secondary research, drafting a project scoping document and analyzing data to provide recommendations
 
 - title: Master of Science, Information Management
   from: 2022
   to: 2024
-  description: "University of Illinois at Urbana-Champaign; Coursework: Applied Business Research, Data Warehousing & Business Intelligence, Information Consulting, Data Visualization, etc."
+  description1: University of Illinois at Urbana-Champaign
+  description2: Coursework: Applied Business Research, Data Warehousing & Business Intelligence, Information Consulting, Data Visualization, etc.
 
   
 - title: System Engineer, Tata Consultancy Services
   from: "September 2020"
   to: "August 2022"
-  description: •  Product Enhancement. Implemented C, C++, Python, & git codes for 5G products for telecom client; used unit, cloud-native & use-case testing using Jenkins & Gerrit, resulted in 15% efficiency gains
-               •  Provided troubleshooting & problem-solving solutions for issues in production environment through root-cause analysis by DevOps
-               •  Consulted with clients during the product development of 5G-plugin feature. Achieved deliverables quality rating of 8.5/10
-               •  Improved cross-functional client-stakeholder communication with Agile & JIRA, achieved 90% user story completion
+  description1: Product Enhancement. Implemented C, C++, Python, & git codes for 5G products for telecom client; used unit, cloud-native & use-case testing using Jenkins & Gerrit, resulted in 15% efficiency gains
+  description2: Provided troubleshooting & problem-solving solutions for issues in production environment through root-cause analysis by DevOps
+  description3: Consulted with clients during the product development of 5G-plugin feature. Achieved deliverables quality rating of 8.5/10
+  description4: Improved cross-functional client-stakeholder communication with Agile & JIRA, achieved 90% user story completion
 
 - title: Data Analyst
   from: "May 2019"
   to: "July 2019"
-  description: •  Customer Research. Implemented a data pipeline to build a customer behavioral assembled report using ETL Modeling for product requirements; identified firm website engagement through Google Analytics & Tableau dashboard
-               •  Product Development. Crafted digital marketing strategies for consumer segmentation through executive presentations & design mockups, collaborated with product team, resulted in a 12% rise in web trends
+  description1: Customer Research. Implemented a data pipeline to build a customer behavioral assembled report using ETL Modeling for product requirements; identified firm website engagement through Google Analytics & Tableau dashboard
+  description2: Product Development. Crafted digital marketing strategies for consumer segmentation through executive presentations & design mockups, collaborated with product team, resulted in a 12% rise in web trends
 
 
 - title: Business Analyst & Marketing Intern
   from: "June 2017"
   to: "July 2017"
-  description:  A fast-growing, data-analytics-based ed-tech platform
-                 • Pursued SWOT strategic opportunities for business organization. Leveraged product management strategies and used in-house database to produce visual data using Power BI to maximize sales
-                 • Validated product fit & prioritization via A/B testing. Automated courses research fatigue, reducing 20% ongoing manual effort
-                 • Utilized 4C’s to identify markets, products, services. Applied Six Sigma for structured problem-solving yielded productivity boost
+  description1: A fast-growing, data-analytics-based ed-tech platform
+  description2: Pursued SWOT strategic opportunities for business organization. Leveraged product management strategies and used in-house database to produce visual data using Power BI to maximize sales
+  description3: Validated product fit & prioritization via A/B testing. Automated courses research fatigue, reducing 20% ongoing manual effort
+  description4: Utilized 4C’s to identify markets, products, services. Applied Six Sigma for structured problem-solving yielded productivity boost
 
 - title: Bachelor of Engineering, Computer Science and Engineering
   from: "July 2016"
   to: "June 2020"
-  description: "University Institute of Technology, RGPV;  Coursework: Software Engineering & Project Management, DBMS, Web Engineering, IoT, Cyber Security, Operating Systems"
+  description1: University Institute of Technology, RGPV 
+  description2: Coursework: Software Engineering & Project Management, DBMS, Web Engineering, IoT, Cyber Security, Operating Systems
                
 

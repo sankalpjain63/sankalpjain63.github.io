@@ -16,7 +16,9 @@ Source:
 ## 2. Graybar, A Fortune 500 Family
 
 Grayabr Innovation Lab- where business meets innovation.
-![Team photo](https://researchpark.illinois.edu/wp-content/uploads/2020/05/Graybar-Team-Photo-Day-768x526.jpg)
+
+![Team photo](https://graybar.widen.net/content/szdon06tv9/jpeg/AboutUs-Hero.jpg?crop=true&anchor=0,0&q=80&color=ffffffff&u=3im2u2&w=2048&h=1372)
+
 
 ## 3. University of Illinois at Urbana-Champaign
 

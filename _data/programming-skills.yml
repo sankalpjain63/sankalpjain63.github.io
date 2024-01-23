@@ -1,24 +1,24 @@
-- name: C/C++
+- name1: C/C++
   percentage: 95
   level: Expert
   color: danger
 
-- name: SQL
+- name1: SQL
   percentage: 90
   level: Advance
   color:
 
-- name: Python
+- name1: Python
   percentage: 90
   level: Advance
   color: secondary
 
-- name: HTML/CSS
+- nam1e: HTML/CSS
   percentage: 85
   level: Intermediate
   color: info
 
-- name: Git
+- name1: Git
   percentage: 90
   level: Advance
   color: success

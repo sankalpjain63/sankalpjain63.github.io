@@ -1,7 +1,7 @@
 ---
 name: INSIGHTS OF AIRBNB
 tools: [Tableau, POWER BI, Excel]
-image: assets/pngs/cars.png
+image: assets/pngs/Airbnb.png
 description: This is a "showcase" project that uses interactive viz!
 Project Timeline: August 2022 - December 2022
 ---

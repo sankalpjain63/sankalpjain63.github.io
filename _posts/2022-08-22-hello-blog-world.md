@@ -10,8 +10,8 @@ This is me writing an intro to this blog post. So introlicioius.
 ## 1. Here is one thing I want to say
 
 Is HAPPY MIND HAPPY LIFE a myth or it really helps one get through your bad days? Read the source to know more.
-Source: 
-[Starting Fresh What All It Takes](https://sankalpjainblogs.wixsite.com/myblogs/post/starting-fresh-what-all-it-takes/)
+
+Source: [Starting Fresh What All It Takes](https://sankalpjainblogs.wixsite.com/myblogs/post/starting-fresh-what-all-it-takes/)
 
 
 ## 2. Graybar, A Fortune 500 Family

@@ -2,10 +2,8 @@
 name: Business Intelligence Group
 tools: [management consulting, Porter's 5, SWOT]
 image: assets/pngs/BIG.png
-Project Timeline: August 2023 - December 2023
+description: As a Senior Consultant, helped a client enter the healthcare domain
 ---
-
-## As a Senior Consultant, I & my team:
 
 ### Objective:
 

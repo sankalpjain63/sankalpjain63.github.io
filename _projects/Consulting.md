@@ -1,7 +1,7 @@
 ---
 name: Business Intelligence Group
 tools: [management consulting, Porter's 5, Frameworks, SWOT]
-image: assets/pngs/BIG.png
+image: assets/pngs/BIG.jpg
 Project Timeline: August 2023 - December 2023
 ---
 
@@ -16,14 +16,15 @@ As a Senior Consultant in the Business Intelligence Group, I aimed to lead a tea
 In this project, our team embarked on a comprehensive strategy consulting initiative to assist our client, a leading telecom company, in venturing into the healthcare domain with a digital-healthcare continuous glucose monitoring (CGM) service. Leveraging our expertise in business intelligence, we conducted a thorough analysis utilizing various frameworks and tools.
 
 #### SWOT Analysis:
-Strengths 	Weaknesses 
-- Strong brand recognition in telecom sector - Limited experience in healthcare industry 
-- Access to extensive customer data	 - Lack of established network in healthcare sector 
-- Robust technological infrastructure	- Initial investment required for market entry 
-Opportunities Threats
-- Growing demand for digital healthcare solutions - Intense competition from established healthcare players
-- Expansion opportunities in emerging markets	- Regulatory hurdles and compliance requirements
-- Potential for strategic partnerships and alliances - Rapidly evolving technological landscape
+Strengths                                    	Weaknesses 
+- Strong brand recognition in telecom sector  - Limited experience in healthcare industry 
+- Access to extensive customer data	          - Lack of established network in healthcare sector 
+- Robust technological infrastructure	        - Initial investment required for market entry
+
+Opportunities                                         Threats
+- Growing demand for digital healthcare solutions     - Intense competition from established healthcare players
+- Expansion opportunities in emerging markets	        - Regulatory hurdles and compliance requirements
+- Potential for strategic partnerships and alliances  - Rapidly evolving technological landscape
 
 #### Porter's Five Forces Analysis:
 * Threat of New Entrants: Moderate - While barriers to entry such as regulatory requirements exist, the increasing demand for digital healthcare solutions presents opportunities for new entrants.

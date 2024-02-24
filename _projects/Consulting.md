@@ -1,7 +1,7 @@
 ---
 name: Business Intelligence Group
 tools: [management consulting, Porter's 5, Frameworks, SWOT]
-image: assets/pngs/Airbnb.png
+image: assets/pngs/BIG.png
 Project Timeline: August 2023 - December 2023
 ---
 
@@ -35,9 +35,11 @@ Opportunities Threats
 
 ### Challenges: 
 1. Navigating the complex regulatory landscape of the healthcare industry posed significant challenges. We had to meticulously research and analyze regulatory requirements and compliance standards to ensure that the client's digi-healthcare service met all legal obligations.
+
 2. Another challenge was gaining buy-in and acceptance of our recommendations from stakeholders within the client organization. To overcome this, we developed persuasive narratives supported by robust data analysis and visualizations. By presenting our findings in visually compelling formats, such as infographics and interactive presentations, we effectively communicated the value and feasibility of our proposed strategies.
 
 ### Conclusion:
 
-1. In conclusion, our strategic consulting efforts have equipped our client with a robust framework for entering the healthcare domain with confidence. Through SWOT and Porter's Five Forces analyses, we identified key opportunities and challenges, enabling the client to formulate informed strategies.
+1. Our strategic consulting efforts have equipped our client with a robust framework for entering the healthcare domain with confidence. Through SWOT and Porter's Five Forces analyses, we identified key opportunities and challenges, enabling the client to formulate informed strategies.
+
 2. Moving forward, our client is well-positioned to capitalize on the growing demand for digital healthcare solutions, leveraging their strengths and addressing potential weaknesses and threats. By embracing innovation and strategic partnerships, they can establish a strong presence in the healthcare sector and drive sustainable growth in the long term.

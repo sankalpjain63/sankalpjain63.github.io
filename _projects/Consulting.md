@@ -1,7 +1,7 @@
 ---
 name: Business Intelligence Group
 tools: [management consulting, Porter's 5, Frameworks, SWOT]
-image: assets/pngs/BIG.jpg
+image: assets/pngs/BIG.png
 Project Timeline: August 2023 - December 2023
 ---
 

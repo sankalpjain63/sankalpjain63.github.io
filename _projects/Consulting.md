@@ -1,15 +1,15 @@
 ---
 name: Business Intelligence Group
-tools: [management consulting, Porter's 5, Frameworks, SWOT]
+tools: [management consulting, Porter's 5, SWOT]
 image: assets/pngs/BIG.png
 Project Timeline: August 2023 - December 2023
 ---
 
-## The project and duties I performed as a senior consultant:
+## As a Senior Consultant, I & my team:
 
 ### Objective:
 
-As a Senior Consultant in the Business Intelligence Group, I aimed to lead a team of 5 consultants in providing strategy consulting to facilitate our client's entry into the healthcare domain with a digital healthcare service.
+I aimed to lead a team of 5 consultants in providing strategy consulting to facilitate our client's entry into the healthcare domain with a digital healthcare service.
 
 ### Description:
 

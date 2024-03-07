@@ -1,8 +1,8 @@
 - title: Product Owner, Graybar
   from: "May 2023"
   to: present
-  description1: •  Product Enhancement. Efficiently implemented Freight Cost Model using Snowflake & Power BI dashboard, enhancing gross margin & quote conversion ratio. Proactively predicted freight costs, saving Graybar 10% from initial $100 million
-  description2: •  Bridging the language gap for 20.5% of Hispanic & Latino electrical professionals by introducing bilingual customer support & application interface, guided by Qualtrics-powered user research customer survey
+  description1: •  Product Launch. Introduced bilingual customer support and application interface to aid 20.5% electrical professionals, informed by Qualtrics go-to-market user research survey; managing product lifecycle with JIRA-Agile
+  description2: •  Deployed B2B Freight Cost Model using SQL/Snowflake & Power BI dashboard. Predicted freight costs, saving Graybar 10% from initial $100M
   description3: •  Built KPIs-data accuracy, latency & feedback for Value Tracker product, suggested service strategies from 57 solutions for customers
   description4: •  Developed a comprehensive Market Insights Report, identifying key trends and results for more than 2000 stakeholders
 
@@ -35,12 +35,11 @@
   description3: •  Consulted with clients during the product development of 5G-plugin feature. Achieved deliverables quality rating of 8.5/10
   description4: •  Improved cross-functional client-stakeholder communication with Agile & JIRA, achieved 90% user story completion
 
-- title: Data Analyst
+- title: Data Analyst Intern
   from: "May 2019"
   to: "July 2019"
-  description1: •  Customer Research. Implemented a data pipeline to build a customer behavioral assembled report using ETL Modeling for product requirements; identified firm website engagement through Google Analytics & Tableau dashboard
-  description2: •  Product Development. Crafted digital marketing strategies for consumer segmentation through executive presentations & design mockups, collaborated with product team, resulted in a 12% rise in web trends
-
+  description1: •  Metric Analysis. Built customer behavior ETL model using data pipeline from customer research/segmentation for website insights 
+  description2: •  Identified firm website engagement through Google Analytics & Tableau dashboard; collaborated with product team, resulted in 12% rise in web trends
 
 - title: Business Analyst & Marketing Intern
   from: "June 2017"

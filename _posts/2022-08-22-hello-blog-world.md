@@ -1,8 +1,8 @@
 ---
-title: "5 Facts"
+title: "6 Facts"
 tags: [Inspiration, Blogging]
 style: fill
-color: secondary
+color: primary
 ---
 
 This is me writing an intro to this blog post. So introlicioius.
